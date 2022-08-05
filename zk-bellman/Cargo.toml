@@ -1,0 +1,12 @@
+[package]
+name = "zk-bellman"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+zkutil = "0.5.0" 
+bellman = "0.13.1"
+bellman_ce = "0.3.1"
+lazy_static = "1.4.0"
